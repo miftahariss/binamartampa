@@ -2,7 +2,7 @@
 <div id="content">
 <div id="content-kiri">
 
-<div id="bg-judul">KEPALA SEKOLAH SMANJO</div>
+<div id="bg-judul">KEPALA SEKOLAH</div>
 <div id="isi-side-kepsek">
 <img src="<?php echo base_url(); ?>system/application/views/main-web/images/laki.jpg" /><br />
 Drs. Istu Handono<br />NIP. 19641229198903 1 011
