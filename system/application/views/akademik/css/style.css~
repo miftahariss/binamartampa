@@ -1,0 +1,261 @@
+body{
+padding-top:0px;
+margin-top:25px;
+background-color:#FFFFFF;
+background-image:url(../images/bg-bawah.jpg);
+background-position:top;
+background-attachment:scroll;
+background-repeat:no-repeat;
+font-family:Arial;
+font-size:12px;
+color:#333333;
+}
+#luar{
+margin:0 auto;
+padding:0 auto;
+width:950px;
+}
+#head{
+width:950px;
+height:100px;
+float:none;
+}
+#head-kiri{
+width:650px;
+height:100px;
+float:left;
+}
+#head-kanan{
+background-image:url(../images/bg-head-kanan.jpg);
+background-repeat:no-repeat;
+padding-left:30px;
+width:270px;
+height:100px;
+float:left;
+}
+#menu{
+background-image:url(../images/bg-menu.jpg);
+background-repeat:repeat-x;
+padding-left:15px;
+padding-right:15px;
+height:50px;
+width:920px;
+font-weight:bold;
+float:none;
+}
+#s-menu{
+float:left;
+padding:15px 5px 15px 5px;
+}
+#menu a{
+text-decoration:none;
+color:#333333;
+}
+#menu a:hover{
+text-decoration:none;
+color:#6699FF;
+}
+#menu a:visited{
+text-decoration:none;
+color:#333333;
+}
+#menu a:active{
+text-decoration:none;
+color:#6699FF;
+}
+
+#batas-menu{
+width:20px;
+height:50px;
+float:left;
+}
+h6{
+background-image:url(../images/search-icon.png);
+background-position:left top;
+background-repeat:no-repeat;
+font-family:Trebuchet MS;
+font-size:12px;
+font-weight:bold;
+padding-left:30px;
+padding-bottom:5px;
+margin:0px;
+}
+.input{
+-moz-border-radius:4px;
+-khtml-border-radius: 4px;
+-webkit-border-radius: 4px;
+font-size:12px;
+background-color:#FFFFFF;
+border:1pt solid #CCCCCC;
+}
+h5{
+margin:0px;
+font-size:12px;
+padding-top:5px;
+padding-bottom:5px;
+}
+h4{
+padding-left:5px;
+padding-right:5px;
+margin:0px;
+}
+div.sample_attach
+{
+	float:left;
+	padding:15px 6px 9px 6px;
+  	display: block;
+}
+div.sample_attach a{
+text-decoration:none;
+color:#333333;
+}
+div.sample_attach a:hover{
+text-decoration:none;
+color:#6699FF;
+}
+a.sample_attach
+{
+  display: block;
+  padding: 5px 5px;
+  background: #F6F6F6;
+  text-decoration: none;
+  font-family: Trebuchet MS, Arial;
+  font-size:12px;
+  color:#333333;
+  border-right:3px solid #E3E3E3;
+  border-left:3px solid #E3E3E3;
+  border-bottom:2px solid #E3E3E3;
+}
+a:hover.sample_attach 
+{
+  display: block;
+  padding: 5px 5px;
+  background:#E3E5E4;
+  text-decoration: none;
+  font-family: Trebuchet MS, Arial;
+  color:#333333;
+}
+.submitButton{
+	color:#000;
+	font-size:12px;
+	height:20px;
+  	font-family: Trebuchet MS;
+	-moz-border-radius:4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border:1px solid #cccccc;
+	background-color:#B7EAFD;
+	cursor:pointer;
+}
+.submitButton:hover{
+  	font-family: Trebuchet MS;
+	background-position:bottom;
+	border-color:#dddddd;
+	color:#0000;
+	background-color:#6BD2FB;
+}
+#content{
+padding-top:10px;
+padding-left:10px;
+padding-right:10px;
+width:930px;
+}
+#content-kiri{
+width:225px;
+float:left;
+}
+#content-tengah{
+width:460px;
+padding-left:10px;
+padding-right:10px;
+float:left;
+}
+#content-kanan{
+width:225px;
+float:left
+}
+#bg-judul{
+background-image:url(../images/bg-judul.jpg);
+background-repeat:no-repeat;
+height:30px;
+padding-left:35px;
+font-weight:bold;
+padding-top:5px;
+padding-bottom:5px;
+}
+#isi-side{
+background-color:#F6F6F6;
+width:210px;
+padding-left:5px;
+padding-right:10px;
+}
+#isi-side-kepsek{
+text-align:center;
+background-color:#F6F6F6;
+width:215px;
+padding-left:5px;
+padding-right:5px;
+}
+#bg-bawah-judul{
+background-image:url(../images/bg-bawah-judul.jpg);
+background-repeat:no-repeat;
+height:24px;
+text-align:center;
+margin-bottom:10px;
+}
+#footer{
+margin-top:75px;
+background-image:url(../images/footer.jpg);
+background-repeat:no-repeat;
+float:left;
+width:950px;
+height:150px;
+text-align:center;
+}
+.li-class{
+list-style:url(../images/bullet.gif);
+margin-left:-15px;
+padding-left: 5px;
+padding-top: 2px;
+padding-bottom: 2px;
+}
+#berita-utama{
+width:460px;
+background-image:url(../images/bg-main-berita.jpg);
+background-repeat:no-repeat;
+height:250px;
+padding-top:30px;
+padding-left:35px;
+}
+#berita-main{
+text-align:justify;
+width:390px;
+}
+.image {
+background-color: #fff;
+padding: 3px;
+margin: 3px 5px 3px 0;
+border: 1px solid #999999;
+float: left;
+}
+h3{
+font-size:16px;
+font-weight:bold;
+color:#6699FF;
+margin:0px;
+padding:0px;
+}
+h2{
+font-size:11px;
+color:#0066FF;
+margin:0px;
+}
+.radio-class{
+margin-top:5px;
+cursor:pointer;
+margin-bottom:5px;
+}
+ul{
+margin-top:0px;
+margin-bottom:0px;
+}
