@@ -1,9 +1,9 @@
 <div id="content-tengah">
 	<div id="berita-utama">
 		<div id="berita-main">
-			<h3>Selamat Datang di Website SMK Bina Marta</h3>
-			<h2>Media Sistem Informasi Akademik Online <strong>SMK Bina Marta</strong></h2>
-			<img src="<?php echo base_url(); ?>system/application/views/main-web/images/icon.png" class="image" width="70"/>Kami Menyambut baik terbitnya Website SMAN 1 Wongsorejo yang baru , dengan harapan dipublikasinya website ini sekolah berharap : Peningkatan layanan pendidikan kepada siswa, orangtua, dan masyarakat pada umumnya semakin meningkat. Sebaliknya orangtua dapat mengakses informasi tentang kegiatan akademik dan non akademik putra - puterinya di sekolah ini. Dengan fasilitas ini Siswa dapat mengakses berbagai informasi pembelajaran dan informasi akademik.
+			<h3>Selamat Datang di Website SMK Kesehatan Bina Martapura</h3>
+			<h2>Media Sistem Informasi Akademik Online <strong>SMK Kesehatan Bina Martapura</strong></h2>
+			<img src="<?php echo base_url(); ?>system/application/views/main-web/images/icon.png" class="image" width="70"/>Sambutan
 		</div>
 	</div>
 	<div id="title-isi">Berita Terbaru</div>

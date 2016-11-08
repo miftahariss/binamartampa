@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>SMK BINA MARTA</title>
+<title>SMK KESEHATAN BINA MARTAPURA</title>
 <link href="<?php echo base_url(); ?>system/application/views/main-web/css/style.css" rel="stylesheet" type="text/css" />
 <link href="<?php echo base_url(); ?>system/application/views/main-web/css/highslide.css" rel="stylesheet" type="text/css" />
 <link rel="shortcut icon" href="<?php echo base_url(); ?>system/application/views/main-web/images/icon.png" />
