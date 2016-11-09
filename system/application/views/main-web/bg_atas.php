@@ -21,7 +21,7 @@ hs.wrapperClassName = 'draggable-header';
 <body onLoad="goforit()">
 <div id="luar">
 <div id="head">
-<div id="head-kiri"><img src="<?php echo base_url(); ?>system/application/views/main-web/images/bg-head.jpg" /></div>
+<div id="head-kiri"><img src="<?php echo base_url(); ?>system/application/views/main-web/images/bg-head.png" /></div>
 <div id="head-kanan">
 <span><h5><a href="<?php echo base_url() ?>">BERANDA</a> | 
 <?php

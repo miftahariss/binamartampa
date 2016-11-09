@@ -34,7 +34,7 @@ onclick="return hs.expand(this,
 <?php
 $ip = $_SERVER['REMOTE_ADDR'];
 ?>
-Copyright &copy; <?php echo date('Y'); ?> SMK BINA MARTA. All Rights Reserved.</div>
+Copyright &copy; <?php echo date('Y'); ?> SMK KESEHATAN BINA MARTAPURA. All Rights Reserved.</div>
 </div>
 </body>
 </html>
